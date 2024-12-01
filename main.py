@@ -24,7 +24,7 @@ print("Результат с приоритетом:", result_with_priority)
 comparison_result = result_without_priority == result_with_priority
 print("Результат сравнения:", comparison_result)
 
-"3th program"
+"4th program"
 
 # Дана строка '123.456'
 number_str = '123.456'
